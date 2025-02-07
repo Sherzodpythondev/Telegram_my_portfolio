@@ -1,2 +1,2 @@
 # Telegram-Bot-Porfolio
-telegram bot yordamida yasalgan portfolio Aleksandr
+telegram bot yordamida yasalgan portfolio Sherzod
